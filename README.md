@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nurullah ÇİTİL</h1>
 <h3 align="center">A passionate Unreal Engine Developer from Turkey</h3>
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=parad0x84&label=Profile%20views&color=0676bc&style=flat" alt="parad0x84" /> </p>
+<br/>
+
+<p align="middle"> <a href="https://www.patreon.com/Paradox84"><img src="https://i.imgur.com/CNm6P6f.png" width="350" height="95" /> </a> </p>
+
+
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=parad0x84&label=Profile%20views&color=0676bc&style=flat" alt="parad0x84" width="200" height="40" /> </p>
 
 - 👨‍💻 All of my projects are available at [MyPortfolio.com](MyPortfolio.com) (Not ready yet)
 
